@@ -13,6 +13,5 @@
     }
   },
   "postCreateCommand": "npm install",
-  "remoteUser": "node",
-  "runArgs": ["--name", "wscat-client"]
+  "remoteUser": "node"
 }
